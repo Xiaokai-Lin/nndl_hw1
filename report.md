@@ -1,6 +1,6 @@
 # 实验报告
 
-本次实验使用了 numpy 库实现了一个简单的三层全链接神经网络（一个隐藏层），在 Fashion-MNIST 数据集上进行训练和测试，实现简单的分类任务。代码可以在"https://github.com/Xiaokai-Lin/nndl_hw1"中查看代码和下载权重文件。
+本次实验使用了 numpy 库实现了一个简单的三层全链接神经网络（一个隐藏层），在 Fashion-MNIST 数据集上进行训练和测试，实现简单的分类任务。代码可以在https://github.com/Xiaokai-Lin/nndl_hw1中查看代码和下载权重文件。其中训练集、验证集、测试集上传至百度云（链接: https://pan.baidu.com/s/1qUnKr2hlLR_CPPhBulenqg 提取码: krp3），可下载。
 
 ## 数据集简介
 
